@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "ajv": "^6.12.6",
     "ajv-keywords": "^3.5.2",
     "framer-motion": "^12.19.1",
